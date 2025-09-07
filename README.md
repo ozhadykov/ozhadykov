@@ -32,7 +32,7 @@ I’m a software engineer with 2+ years of professional full-stack development e
 - Automated deployments using **CI/CD pipelines** via GitHub Actions  
 - Practical playground for **AWS + DevOps skills**  
 
-### 🎮 [Where Is My Wrench?](https://github.com/ozhadykov/browsergame-v2) *(University Project)*  
+### 🎮 [Where Is My Wrench?](https://github.com/ozhadykov/browsergame-v2) *(University Project)*  [Try it out](https://uniprojekte.de/projektseminar/wise2425/ba1/)  
 *Vanilla JavaScript, HTML Canvas*  
 - Built in a team of 5 as an **OOP-based browser game** with custom abstractions and a window manager for handling UI states and events  
 - Contributed to **Git workflows, code reviews, and peer mentoring**, while learning from teammates’ graphics and animation skills  
