@@ -14,7 +14,7 @@ I’m a software engineer with 2+ years of professional full-stack development e
 - 🔧 Skilled in building **scalable architectures**, optimizing performance, and developing customer-centric features  
 - 📊 Passionate about **data science & machine learning**: experienced with regression models, decision trees, random forests, XGBoost, and deep neural networks  
 - 🛠️ Strong believer in **automation & DevOps practices** — currently learning AWS, Terraform, and CI/CD with GitHub Actions  
-- 💡 Love tackling **complex problems**, whether it’s on the job, in coding competitions, or on [LeetCode](https://leetcode.com/)  
+- 💡 Love tackling **complex problems**, whether it’s on the job, in coding competitions, or on [LeetCode](https://leetcode.com/u/omarzhadykov/)  
 
 ---
 
