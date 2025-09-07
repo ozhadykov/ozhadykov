@@ -20,13 +20,13 @@ I’m a software engineer with 2+ years of professional full-stack development e
 
 ## 🏗️ Highlight Projects  
 
-### 🟢 [CARA – Resource Planning System](#) *(Non-Profit, Phönix e.V.)*  
+### 🟢 [CARA – Resource Planning System](https://github.com/ozhadykov/cara) *(Non-Profit, Phönix e.V.)*  
 *React (TypeScript), FastAPI (Python), Docker, AMPL Solver*  
 - Architected and built a **containerized full-stack system** to automate child–assistant assignments  
 - Integrated **linear optimization models**, boosting efficiency by 40%  
 - Collaborated with peers to deliver an impactful real-world solution  
 
-### 🟠 [Cloud-Native Link Shortener API](#) *(Learning Project)*  
+### 🟠 [Cloud-Native Link Shortener API](https://github.com/ozhadykov/java-spring-link-shortener) *(Learning Project)*  
 *Java (Spring Boot), Docker, AWS (Fargate, RDS), Terraform, GitHub Actions*  
 - Designed and deployed a **cloud-native service** with Infrastructure-as-Code  
 - Automated deployments using **CI/CD pipelines** via GitHub Actions  
