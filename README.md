@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Omar  
 
-💻 **Software Engineer who happens to be finishing a degree**  
-🎓 B.Sc. Business Informatics (expected Oct 2025)  
+💻 **Software Engineer**  
+🎓 B.Sc. Business Informatics  
 ☁️ Currently diving deep into **AWS, GitHub Actions, and Terraform**  
 🏋️‍♂️ Weightlifter on the way to a **100kg bench press** (97.5kg 1RM as of Sept 7, 2025)  
 
