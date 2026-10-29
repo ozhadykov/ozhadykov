@@ -1,4 +1,4 @@
-👋 Hi, I’m Omar
+## 👋 Hi, I’m Omar
 
 💻 Software Engineer | Full-Stack Development & System Architecture
 🎓 B.Sc. Business Informatics
@@ -7,7 +7,7 @@
 
 ⸻
 
-🚀 About Me
+## 🚀 About Me
 
 I’m a software engineer with 3+ years of professional experience across Enterprise Applications, Cloud Infrastructure and E-Commerce.
 
@@ -24,9 +24,9 @@ I enjoy understanding how systems work under the hood, challenging design decisi
 
 ⸻
 
-🏗️ Highlight Projects
+## 🏗️ Highlight Projects
 
-🟢 [CARA](https://github.com/ozhadykov/cara-alpha) – Resource Planning System (Non-Profit, Phönix e.V.)
+### 🟢 [CARA](https://github.com/ozhadykov/cara-alpha) – Resource Planning System (Non-Profit, Phönix e.V.)
 
 React (TypeScript), FastAPI (Python), Docker, AMPL Solver
 
@@ -34,7 +34,7 @@ React (TypeScript), FastAPI (Python), Docker, AMPL Solver
 * Integrated mathematical optimization models, improving resource allocation efficiency by 40%
 * Collaborated with a team to deliver a solution for a real-world organizational challenge
 
-🎮 [Where Is My Wrench](https://github.com/ozhadykov/browsergame-v2)? (University Project) — [Play the Game](https://uniprojekte.de/projektseminar/wise2425/ba1/)
+### 🎮 [Where Is My Wrench](https://github.com/ozhadykov/browsergame-v2)? (University Project) — [Play the Game](https://uniprojekte.de/projektseminar/wise2425/ba1/)
 
 Vanilla JavaScript, HTML Canvas
 
@@ -45,7 +45,7 @@ Vanilla JavaScript, HTML Canvas
 
 ⸻
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Languages:
 TypeScript, JavaScript, Java, Python, PHP, SQL, C++
@@ -70,7 +70,7 @@ Pandas, Scikit-learn, XGBoost, Regression Models, Decision Trees, Neural Network
 
 ⸻
 
-🎯 What I’m Focused On
+## 🎯 What I’m Focused On
 
 * Designing maintainable, scalable software architectures
 * Deepening my knowledge of backend engineering, distributed systems, and cloud infrastructure
