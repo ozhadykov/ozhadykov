@@ -5,7 +5,7 @@
 ☁️ Building scalable applications, backend systems, and cloud infrastructure
 🏋️‍♂️ Weightlifting enthusiast benching 100kg+
 
-⸻
+---
 
 ## 🚀 About Me
 
@@ -22,7 +22,7 @@ My work spans the full software development lifecycle — from designing applica
 
 I enjoy understanding how systems work under the hood, challenging design decisions, and finding pragmatic solutions to complex engineering problems.
 
-⸻
+---
 
 ## 🏗️ Highlight Projects
 
@@ -43,7 +43,7 @@ Vanilla JavaScript, HTML Canvas
 * Practiced collaborative development, code reviews, and peer mentoring
 * Built entirely with vanilla JavaScript, emphasizing software design without relying on frameworks
 
-⸻
+---
 
 ## 🛠️ Tech Stack
 
@@ -68,7 +68,7 @@ Monorepos, Turborepo, pnpm Workspaces, Authentication & Authorization, API Desig
 Data Science & ML:
 Pandas, Scikit-learn, XGBoost, Regression Models, Decision Trees, Neural Networks
 
-⸻
+---
 
 ## 🎯 What I’m Focused On
 
@@ -77,7 +77,7 @@ Pandas, Scikit-learn, XGBoost, Regression Models, Decision Trees, Neural Network
 * Improving software quality through testing, automation, and thoughtful engineering practices
 * Growing towards technical leadership and taking ownership of increasingly complex engineering challenges
 
-⸻
+---
 
 Always learning, building, and improving.
 ---
